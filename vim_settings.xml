@@ -1,0 +1,182 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/Main.scala" timestamp="1519728122324">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1520943628024">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/Road.java" timestamp="1509968553121">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/Position.java" timestamp="1509968628153">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/TypeChecker.scala" timestamp="1520940255404">
+        <mark key="[" line="147" column="22" />
+        <mark key="]" line="147" column="22" />
+        <mark key="." line="147" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/.gitignore" timestamp="1518514426775">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/tests/TestSimplify.scala" timestamp="1518537884336">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/other/Week5.scala" timestamp="1520329864003">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/tests/TestInterpreter.scala" timestamp="1518517609924">
+        <mark key="[" line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscalaOOP/Ast.scala" timestamp="1518542179868">
+        <mark key="[" line="114" column="5" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/SmartPlayer.java" timestamp="1509961567428">
+        <mark key="[" line="127" column="6" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/Downloads/src-4/miniscala/Interpreter.scala" timestamp="1520599747182">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="172" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" timestamp="1520958549668">
+        <mark key="[" line="200" column="40" />
+        <mark key="]" line="200" column="40" />
+        <mark key="." line="200" column="40" />
+        <mark key="^" line="200" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/other/Week2.scala" timestamp="1520329069490">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/README.md" timestamp="1509963457484">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/tests/AstTestOOP.scala" timestamp="1518541828158">
+        <mark key="a" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/City.java" timestamp="1509970101832">
+        <mark key="[" line="19" column="27" />
+      </file>
+      <file name="/fragment.java" timestamp="1519727910518">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/Unparser.scala" timestamp="1519728591428">
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="7" />
+        <mark key="." line="50" column="7" />
+        <mark key="^" line="93" column="21" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="11" filename="/Dummy.txt" />
+      <jump line="125" column="8" filename="$USER_HOME$/git/miniscala/src/miniscala/TypeChecker.scala" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>env</text>
+      </register>
+      <register name="-" type="4">
+        <text>env</text>
+      </register>
+      <register name="/" type="4">
+        <text>???</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICBkZWYgY2hlY2tWYWx1ZVR5cGUodjogVmFsLCBvdDogT3B0aW9uW1R5cGVdLCBuOiBBc3ROb2RlKTogVW5pdCA9IG90IG1hdGNoIHsKICAgIGNhc2UgU29tZSh0KSA9PgogICAgICAodiwgdCkgbWF0Y2ggewogICAgICAgIGNhc2UgKEludFZhbChfKSwgSW50VHlwZSkgfAogICAgICAgICAgICAgKEJvb2xWYWwoXyksIEJvb2xUeXBlKSB8CiAgICAgICAgICAgICAoRmxvYXRWYWwoXyksIEZsb2F0VHlwZSkgfAogICAgICAgICAgICAgKEludFZhbChfKSwgRmxvYXRUeXBlKSB8CiAgICAgICAgICAgICAoU3RyaW5nVmFsKF8pLCBTdHJpbmdUeXBlKSA9PiAvLyBkbyBub3RoaW5nCiAgICAgICAgY2FzZSAoVHVwbGVWYWwodnMpLCBUdXBsZVR5cGUodHMpKSBpZiB2cy5sZW5ndGggPT0gdHMubGVuZ3RoID0+CiAgICAgICAgICBmb3IgKCh2aSwgdGkpIDwtIHZzLnppcCh0cykpCiAgICAgICAgICAgIGNoZWNrVmFsdWVUeXBlKHZpLCBTb21lKHRpKSwgbikKICAgICAgICBjYXNlIChDbG9zdXJlVmFsKGNwYXJhbXMsIFR5cGVBbm5vdGF0aW9uKG9wdGNyZXN0eXBlKSwgXywgXyksIEZ1blR5cGUocGFyYW10eXBlcywgcmVzdHlwZSkpIGlmIGNwYXJhbXMubGVuZ3RoID09IHBhcmFtdHlwZXMubGVuZ3RoID0+CiAgICAgICAgICBmb3IgKChwLCB0KSA8LSBjcGFyYW1zLnppcChwYXJhbXR5cGVzKSkKICAgICAgICAgICAgY2hlY2tUeXBlc0VxdWFsKHAudHlwZWFuLm9wdHR5cGUsIHQsIG4pCiAgICAgICAgICBjaGVja1R5cGVzRXF1YWwob3B0Y3Jlc3R5cGUsIHJlc3R5cGUsIG4pCiAgICAgICAgY2FzZSBfID0+CiAgICAgICAgICB0aHJvdyBuZXcgSW50ZXJwcmV0ZXJFcnJvcihzIlR5cGUgbWlzbWF0Y2g6IHZhbHVlICR7dmFsdWVUb1N0cmluZyh2KX0gZG9lcyBub3QgbWF0Y2ggdHlwZSAke1VucGFyc2VyLnVucGFyc2UodCl9IiwgbikKICAgICAgfQogICAgY2FzZSBOb25lID0+IC8vIGRvIG5vdGhpbmcKICB9</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgKHZhbHMgKysgZGVmcykuZm9sZExlZnQoZW52KShlbnY6IEVudiwgZDogRGVjbCkgPT4gZXZhbERlY2woZCwgZW52LCBkZWZzKSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24K</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgdmFyIGVudjIgPSBlbnYKICAgICAgZm9yIChkIDwtIHZhbHMgKysgZGVmcykKICAgICAgICBlbnYyID0gZXZhbERlY2woZCwgZW52MiwgZGVmcykKICAgICAgZXZhbChleHAsIGVudjIp</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBkZWYgY2hlY2tWYWx1ZVR5cGUodjogVmFsLCBvdDogT3B0aW9uW1R5cGVdLCBuOiBBc3ROb2RlKTogVW5pdCA9IG90IG1hdGNoIHsKICAgIGNhc2UgU29tZSh0KSA9PgogICAgICAodiwgdCkgbWF0Y2ggewogICAgICAgIGNhc2UgKEludFZhbChfKSwgSW50VHlwZSkgfAogICAgICAgICAgICAgKEJvb2xWYWwoXyksIEJvb2xUeXBlKSB8CiAgICAgICAgICAgICAoRmxvYXRWYWwoXyksIEZsb2F0VHlwZSkgfAogICAgICAgICAgICAgKEludFZhbChfKSwgRmxvYXRUeXBlKSB8CiAgICAgICAgICAgICAoU3RyaW5nVmFsKF8pLCBTdHJpbmdUeXBlKSA9PiAvLyBkbyBub3RoaW5nCiAgICAgICAgY2FzZSAoVHVwbGVWYWwodnMpLCBUdXBsZVR5cGUodHMpKSBpZiB2cy5sZW5ndGggPT0gdHMubGVuZ3RoID0+CiAgICAgICAgICBmb3IgKCh2aSwgdGkpIDwtIHZzLnppcCh0cykpCiAgICAgICAgICAgIGNoZWNrVmFsdWVUeXBlKHZpLCBTb21lKHRpKSwgbikKICAgICAgICBjYXNlIF8gPT4KICAgICAgICAgIHRocm93IG5ldyBJbnRlcnByZXRlckVycm9yKHMiVHlwZSBtaXNtYXRjaDogdmFsdWUgJHt2YWx1ZVRvU3RyaW5nKHYpfSBkb2VzIG5vdCBtYXRjaCB0eXBlICR7VW5wYXJzZXIudW5wYXJzZSh0KX0iLCBuKQogICAgICB9CiAgICBjYXNlIE5vbmUgPT4gLy8gZG8gbm90aGluZwogIH0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZGVmIGV2YWxEZWNsKGQ6IERlY2wsIHZlbnY6IFZhckVudiwgZmVudjogRnVuRW52LCBkZWZzOiBMaXN0W0RlZkRlY2xdKTogKFZhckVudiwgRnVuRW52KSA9IGQgbWF0Y2ggewogICAgY2FzZSBWYWxEZWNsKHgsIHR5cGVhbiwgZXhwKSA9PgogICAgICB2YWwgdiA9IGV2YWwoZXhwLCB2ZW52LCBmZW52KQogICAgICBjaGVja1ZhbHVlVHlwZSh2LCB0eXBlYW4ub3B0dHlwZSwgZCkKICAgICAgKHZlbnYgKyAoeCAtPiB2KSwgZmVudik=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Y2FzZSBCbG9ja0V4cCh2YWxzLCBkZWZzLCBleHApID0+IHRyYWNlKCJFdmFsdWF0aW5nIEJsb2NrIEV4cHJlc3Npb24uLi4iKQogICAgICB2YXIgZW52ID0gKHZlbnYsIGZlbnYpCiAgICAgIGZvciAoZCA8LSB2YWxzICsrIGRlZnMpCiAgICAgICAgZW52ID0gZXZhbERlY2woZCwgZW52Ll8xLCBlbnYuXzIsIGRlZnMpCiAgICAgIGV2YWwoZXhwLCBlbnYuXzEsIGVudi5fMik=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgdmFsIGxlZnR2YWwgPSBldmFsKGxlZnRleHAsIHZlbnYsIGZlbnYpCiAgICAgIHZhbCByaWdodHZhbCA9IGV2YWwocmlnaHRleHAsIHZlbnYsIGZlbnYp</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdmVudi5nZXRPckVsc2UoeCwgdGhyb3cgbmV3IEludGVycHJldGVyRXJyb3IocyJVbmtub3duIGlkZW50aWZpZXIgJyR4JyIsIGUpKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>???</last-search>
+      <last-offset />
+      <last-pattern>???</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Closure</entry>
+        <entry>???</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>i</entry>
+        <entry>qw</entry>
+        <entry>vs Ast.scala</entry>
+        <entry>/Closure</entry>
+        <entry>reg</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
