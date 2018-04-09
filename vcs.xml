@@ -6,10 +6,12 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="mikkel.wienberg@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Quacktiamauct@bitbucket.org/teamTobiasErDum/handin_week1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="D:\Mikkel\Git" />
   </component>
 </application>
