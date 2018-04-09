@@ -6,15 +6,84 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/miniscala/tests/AstTestOOP.scala" timestamp="1518541828158">
+        <mark key="a" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/src-4/miniscala/Interpreter.scala" timestamp="1520599747182">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="172" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/other/Week2.scala" timestamp="1520329069490">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/City.java" timestamp="1509970101832">
+        <mark key="[" line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscalaOOP/Ast.scala" timestamp="1518542179868">
+        <mark key="[" line="114" column="5" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/tests/TestInterpreter.scala" timestamp="1518517609924">
+        <mark key="[" line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/other/Week5.scala" timestamp="1520329864003">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" timestamp="1523021299866">
+        <mark key="'" line="91" column="53" />
+        <mark key="[" line="272" column="62" />
+        <mark key="]" line="272" column="59" />
+        <mark key="." line="272" column="59" />
+        <mark key="^" line="272" column="59" />
+      </file>
       <file name="$USER_HOME$/git/miniscala/src/miniscala/Main.scala" timestamp="1519728122324">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/git/miniscala/tests/TestSimplify.scala" timestamp="1518537884336">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/Unparser.scala" timestamp="1519728591428">
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="7" />
+        <mark key="." line="50" column="7" />
+        <mark key="^" line="93" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/SmartPlayer.java" timestamp="1509961567428">
+        <mark key="[" line="127" column="6" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
       <file name="$USER_HOME$/git/NordicTraveller/src/Road.java" timestamp="1509968553121">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/.gitignore" timestamp="1518514426775">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/README.md" timestamp="1509963457484">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/NordicTraveller/src/Position.java" timestamp="1509968628153">
         <mark key="[" line="13" column="14" />
@@ -27,78 +96,8 @@
         <mark key="." line="93" column="44" />
         <mark key="^" line="93" column="44" />
       </file>
-      <file name="$USER_HOME$/git/miniscala/.gitignore" timestamp="1518514426775">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/tests/TestSimplify.scala" timestamp="1518537884336">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/other/Week5.scala" timestamp="1520329864003">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="19" column="5" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/src/miniscala/Interpreter.scala" timestamp="1523021209767" />
-      <file name="$USER_HOME$/git/miniscala/tests/TestInterpreter.scala" timestamp="1518517609924">
-        <mark key="[" line="7" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/miniscalaOOP/Ast.scala" timestamp="1518542179868">
-        <mark key="[" line="114" column="5" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/NordicTraveller/src/SmartPlayer.java" timestamp="1509961567428">
-        <mark key="[" line="127" column="6" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/Downloads/src-4/miniscala/Interpreter.scala" timestamp="1520599747182">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="172" column="2" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" timestamp="1523021299866">
-        <mark key="'" line="91" column="53" />
-        <mark key="[" line="272" column="62" />
-        <mark key="]" line="272" column="59" />
-        <mark key="." line="272" column="59" />
-        <mark key="^" line="272" column="59" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/other/Week2.scala" timestamp="1520329069490">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/NordicTraveller/README.md" timestamp="1509963457484">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/tests/AstTestOOP.scala" timestamp="1518541828158">
-        <mark key="a" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/NordicTraveller/src/City.java" timestamp="1509970101832">
-        <mark key="[" line="19" column="27" />
-      </file>
       <file name="/fragment.java" timestamp="1519727910518">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/miniscala/Unparser.scala" timestamp="1519728591428">
-        <mark key="[" line="50" column="7" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="50" column="7" />
-        <mark key="^" line="93" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -298,8 +297,29 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
