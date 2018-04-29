@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="sam" type="PLAIN_TEXT" />
       <mapping ext="s" type="Scala" />
     </extensionMap>
   </component>
