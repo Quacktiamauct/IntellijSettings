@@ -1,29 +1,13 @@
 <application>
+  <component name="RelativeLineNumbersSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="vim_settings.xml" timestamp="1526330476121">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/tests/AstTestOOP.scala" timestamp="1518541828158">
-        <mark key="a" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1526334323267">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/miniscala/AbstractMachine.scala" timestamp="1524476730487">
-        <mark key="'" line="105" column="19" />
-        <mark key="[" line="120" column="12" />
-      </file>
-      <file name="$USER_HOME$/Downloads/src-4/miniscala/Interpreter.scala" timestamp="1520599747182">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="172" column="2" />
       </file>
       <file name="$USER_HOME$/git/miniscala/src/other/Week2.scala" timestamp="1520329069490">
         <mark key="[" line="26" column="56" />
@@ -32,14 +16,6 @@
       </file>
       <file name="$USER_HOME$/git/NordicTraveller/src/City.java" timestamp="1509970101832">
         <mark key="[" line="19" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/miniscalaOOP/Ast.scala" timestamp="1518542179868">
-        <mark key="[" line="114" column="5" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/tests/TestInterpreter.scala" timestamp="1518517609924">
-        <mark key="[" line="7" column="39" />
       </file>
       <file name="D:/Mikkel/git/miniscala/src/other/Exercise148.scala" timestamp="1526334167440">
         <mark key="[" line="2" column="20" />
@@ -62,12 +38,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git/miniscala/tests/TestSimplify.scala" timestamp="1518537884336">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="6" column="9" />
-      </file>
       <file name="ui.lnf.xml" timestamp="1526330465484">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,11 +52,6 @@
         <mark key="]" line="14" column="17" />
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/NordicTraveller/src/Road.java" timestamp="1509968553121">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
       </file>
       <file name="$USER_HOME$/git/miniscala/.gitignore" timestamp="1518514426775">
         <mark key="[" line="6" column="4" />
@@ -111,6 +76,44 @@
         <mark key="." line="93" column="44" />
         <mark key="^" line="93" column="44" />
       </file>
+      <file name="$USER_HOME$/git/miniscala/tests/AstTestOOP.scala" timestamp="1518541828158">
+        <mark key="a" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1526334323267">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/AbstractMachine.scala" timestamp="1524476730487">
+        <mark key="'" line="105" column="19" />
+        <mark key="[" line="120" column="12" />
+      </file>
+      <file name="$USER_HOME$/Downloads/src-4/miniscala/Interpreter.scala" timestamp="1520599747182">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="172" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscalaOOP/Ast.scala" timestamp="1518542179868">
+        <mark key="[" line="114" column="5" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/tests/TestInterpreter.scala" timestamp="1518517609924">
+        <mark key="[" line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/tests/TestSimplify.scala" timestamp="1518537884336">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/Road.java" timestamp="1509968553121">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+      </file>
       <file name="/fragment.java" timestamp="1519727910518">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,6 +123,9 @@
         <mark key="]" line="54" column="76" />
         <mark key="^" line="213" column="12" />
         <mark key="." line="54" column="76" />
+      </file>
+      <file name="D:/Mikkel/git/mailclient/src/Main.java" timestamp="1526473205501">
+        <mark key="[" line="0" column="19" />
       </file>
     </filemarks>
     <jumps>
