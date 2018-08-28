@@ -3,7 +3,7 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="vim_settings.xml" timestamp="1526330476121">
@@ -13,6 +13,9 @@
         <mark key="[" line="26" column="56" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/InsertionSort.java" timestamp="1535469697771">
+        <mark key="[" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/git/NordicTraveller/src/City.java" timestamp="1509970101832">
         <mark key="[" line="19" column="27" />
