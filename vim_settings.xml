@@ -14,11 +14,18 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/InsertionSort.java" timestamp="1535469697771">
+      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/InsertionSort.java" timestamp="1535479797747">
         <mark key="[" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/git/NordicTraveller/src/City.java" timestamp="1509970101832">
         <mark key="[" line="19" column="27" />
+      </file>
+      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/MergeSort.java" timestamp="1535480888875">
+        <mark key="e" line="7" column="56" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="31" column="57" />
+        <mark key="." line="31" column="57" />
+        <mark key="^" line="31" column="57" />
       </file>
       <file name="D:/Mikkel/git/miniscala/src/other/Exercise148.scala" timestamp="1526334167440">
         <mark key="[" line="2" column="20" />
@@ -142,10 +149,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mail</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>mail</text>
+        <text>public</text>
       </register>
       <register name="m" type="4">
         <keys>
