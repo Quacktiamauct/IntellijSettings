@@ -3,29 +3,319 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1535631870013">
+      <file name="vim_settings.xml" timestamp="1526330476121">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/SWEA/hotciv-tdd-start/build.gradle" timestamp="1535629040964" />
+      <file name="$USER_HOME$/git/miniscala/src/other/Week2.scala" timestamp="1520329069490">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/InsertionSort.java" timestamp="1535479797747">
+        <mark key="[" line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/City.java" timestamp="1509970101832">
+        <mark key="[" line="19" column="27" />
+      </file>
+      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/MergeSort.java" timestamp="1535581552597">
+        <mark key="e" line="9" column="56" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="35" column="31" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="19" column="34" />
+      </file>
+      <file name="D:/Mikkel/git/miniscala/src/other/Exercise148.scala" timestamp="1526334167440">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/other/Week5.scala" timestamp="1520329864003">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" timestamp="1523021299866">
+        <mark key="'" line="91" column="53" />
+        <mark key="[" line="272" column="62" />
+        <mark key="]" line="272" column="59" />
+        <mark key="." line="272" column="59" />
+        <mark key="^" line="272" column="59" />
+      </file>
+      <file name="D:/Mikkel/git/mailfixer/maillogin.py" timestamp="1526473012595">
+        <mark key="a" line="9" column="28" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/Main.scala" timestamp="1519728122324">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="ui.lnf.xml" timestamp="1526330465484">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/SWEA/hotciv-tdd-start/.gitignore" timestamp="1535633166948">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/Unparser.scala" timestamp="1519728591428">
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="7" />
+        <mark key="." line="50" column="7" />
+        <mark key="^" line="93" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/SmartPlayer.java" timestamp="1509961567428">
+        <mark key="[" line="127" column="6" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/.gitignore" timestamp="1518514426775">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/README.md" timestamp="1509963457484">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/Position.java" timestamp="1509968628153">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/TypeChecker.scala" timestamp="1523020960937">
+        <mark key="[" line="100" column="108" />
+        <mark key="]" line="93" column="44" />
+        <mark key="." line="93" column="44" />
+        <mark key="^" line="93" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/tests/AstTestOOP.scala" timestamp="1518541828158">
+        <mark key="a" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535631870013">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscala/AbstractMachine.scala" timestamp="1524476730487">
+        <mark key="'" line="105" column="19" />
+        <mark key="[" line="120" column="12" />
+      </file>
+      <file name="$USER_HOME$/Downloads/src-4/miniscala/Interpreter.scala" timestamp="1520599747182">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="172" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/src/miniscalaOOP/Ast.scala" timestamp="1518542179868">
+        <mark key="[" line="114" column="5" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/miniscala/tests/TestInterpreter.scala" timestamp="1518517609924">
+        <mark key="[" line="7" column="39" />
+      </file>
+      <file name="D:/Mikkel/git/SWEA/hotciv/src/test/java/hotciv/standard/TestAlphaCiv.java" timestamp="1535657124143" />
+      <file name="$USER_HOME$/git/miniscala/tests/TestSimplify.scala" timestamp="1518537884336">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/NordicTraveller/src/Road.java" timestamp="1509968553121">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+      </file>
+      <file name="/fragment.java" timestamp="1519727910518">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Mikkel/git/miniscala/src/other/Exercise142.scala" timestamp="1526333330468">
+        <mark key="'" line="54" column="99" />
+        <mark key="[" line="54" column="76" />
+        <mark key="]" line="54" column="76" />
+        <mark key="^" line="213" column="12" />
+        <mark key="." line="54" column="76" />
+      </file>
+      <file name="D:/Mikkel/git/mailclient/src/Main.java" timestamp="1526473205501">
+        <mark key="[" line="0" column="19" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="m" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="/" type="4">
+        <text>opstack.pop()</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpPTA7IGk8bjE7ICsraSkKICAgICAgICAgICAgTFtpXSA9IGFbcCArIGldOwogICAgICAgIGZvciAoaW50IGo9MDsgajxuMjsgKytqKQogICAgICAgICAgICBSW2pdID0gYVtxICsgMSsgal07</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBpbnRbXSBtZXJnZTIoaW50W10gYSwgaW50IHAsIGludCBxLCBpbnQgcikgewogICAgICAgIGludCBuMSA9IHEgLSBwICsgMTsKICAgICAgICBpbnQgbjIgPSByIC0gcTsKICAgICAgICBpbnRbXSBMID0gbmV3IGludFtuMV07CiAgICAgICAgaW50W10gUiA9IG5ldyBpbnRbbjJdOwoKICAgICAgICBmb3IgKGludCBpPTA7IGk8bjE7ICsraSkKICAgICAgICAgICAgTFtpXSA9IGFbcCArIGldOwogICAgICAgIGZvciAoaW50IGo9MDsgajxuMjsgKytqKQogICAgICAgICAgICBSW2pdID0gYVtxICsgMSsgal07CgogICAgICAgIGludCBpID0gMDsKICAgICAgICBpbnQgaiA9IDA7CiAgICAgICAgaW50IGsgPSBwOwogICAgICAgIHdoaWxlIChpIDwgbjEgJiYgaiA8IG4yKSB7CiAgICAgICAgICAgIGlmIChMW2ldIDw9IFJbal0pIHsKICAgICAgICAgICAgICAgIGFba10gPSBMW2ldOwogICAgICAgICAgICAgICAgaSsrOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYVtrXSA9IFJbal07CiAgICAgICAgICAgICAgICBqKys7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaysrOwogICAgICAgIH0KICAgICAgICB3aGlsZSAoaSA8IG4xKSB7CiAgICAgICAgICAgIGFba10gPSBMW2ldOwogICAgICAgICAgICBpKys7CiAgICAgICAgICAgIGsrKzsKICAgICAgICB9CiAgICAgICAgd2hpbGUgKGogPCBuMikgewogICAgICAgICAgICBhW2tdID0gUltqXTsKICAgICAgICAgICAgaisrOwogICAgICAgICAgICBrKys7CiAgICAgICAgfQogICAgICAgIHJldHVybiBhOwogICAgfQ==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYVtrXSA9IExbal07Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ID0gcDsgazxyOyBrKyspIHsKICAgICAgICAgICAgaWYgKGk8bjEgJiYgTFtpXSA8PSBSW2ldKSB7CiAgICAgICAgICAgICAgICBhW2tdID0gTFtpXTsKICAgICAgICAgICAgICAgIGkrKzsKICAgICAgICAgICAgfSBlbHNlIGlmIChqPG4yKSB7CiAgICAgICAgICAgICAgICBhW2tdID0gUltqXTsKICAgICAgICAgICAgICAgIGorKzsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJwOiAiK3ArIiBxOiAiK3ErIiByOiAiK3IpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG1lcmdlKEEsIDAsIDAsIDQpKSk7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>L[n1]=999; // Sentinel values, should be changed
+        R[n2]=999;</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="64" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTFtpXSA9IGFbcCtpLTFdOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLmFycmF5Y29weShhLCBwICwgTCwgMCwgbjEpOwogICAgICAgIFN5c3RlbS5hcnJheWNvcHkoYSwgcSAsIFIsIDAsIG4yKTs=</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/opstack.pop()/popInt()</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>Closure</entry>
+        <entry>???</entry>
+        <entry>v2</entry>
+        <entry>22v)v22v</entry>
+        <entry>v2)</entry>
+        <entry>/opstack.pop()/popInt()</entry>
+        <entry>opstack.pop()</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>i</entry>
+        <entry>qw</entry>
+        <entry>vs Ast.scala</entry>
+        <entry>/Closure</entry>
+        <entry>undo</entry>
+        <entry>reg</entry>
+        <entry>w</entry>
+        <entry>s/opstack.pop()/popInt()</entry>
+        <entry>s%/opstack.pop()/popInt()</entry>
+        <entry>%s/opstack.pop()/popInt()</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
   </component>
 </application>
