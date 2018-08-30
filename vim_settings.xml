@@ -3,26 +3,48 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1535631870013">
+      <file name="/Dummy.txt" timestamp="1535633597699">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/SWEA/hotciv-tdd-start/build.gradle" timestamp="1535629040964" />
-      <file name="$USER_HOME$/git/SWEA/hotciv-tdd-start/.gitignore" timestamp="1535633166948">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="5" column="10" />
+      <file name="$USER_HOME$/git/SWEA/hotciv-tdd-start/.gitignore" timestamp="1535633550780">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="5" column="10" />
-        <mark key="." line="5" column="10" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Q2hhbmdlIC5naXRpZ25vcmUgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ki5pZGVhCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Z3JhZGxlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Z3JhZGxldwoqLmlkZWEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Z3JhZGxlCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
