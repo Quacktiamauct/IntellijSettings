@@ -10,8 +10,12 @@
           <option name="url" value="https://Quacktiamauct@bitbucket.org/teamTobiasErDum/handin_week1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Quacktiamauct@bitbucket.org/Quacktiamauct/mailclient.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Mikkel\Git" />
+    <option name="cloneParentDir" value="$USER_HOME$/git" />
   </component>
 </application>
