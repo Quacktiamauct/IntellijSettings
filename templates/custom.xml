@@ -1,0 +1,7 @@
+<templateSet group="custom">
+  <template name="tpvs" value="@Test&#10;public void shouldBe" description="create new test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

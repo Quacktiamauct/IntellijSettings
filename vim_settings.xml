@@ -6,337 +6,67 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/miniscala/src/miniscala/Main.scala" timestamp="1519728122324">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/NordicTraveller/src/Road.java" timestamp="1509968553121">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/NordicTraveller/src/Position.java" timestamp="1509968628153">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/miniscala/TypeChecker.scala" timestamp="1523020960937">
-        <mark key="[" line="100" column="108" />
-        <mark key="]" line="93" column="44" />
-        <mark key="." line="93" column="44" />
-        <mark key="^" line="93" column="44" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/tests/TestSimplify.scala" timestamp="1518537884336">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/.gitignore" timestamp="1518514426775">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/other/Week5.scala" timestamp="1520329864003">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="19" column="5" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/src-1/miniscala/AbstractMachine.scala" timestamp="1524476752350" />
-      <file name="$USER_HOME$/git/miniscala/src/miniscalaOOP/Ast.scala" timestamp="1518542179868">
-        <mark key="[" line="114" column="5" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/tests/TestInterpreter.scala" timestamp="1518517609924">
-        <mark key="[" line="7" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/NordicTraveller/src/SmartPlayer.java" timestamp="1509961567428">
-        <mark key="[" line="127" column="6" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/miniscala/AbstractMachine.scala" timestamp="1524476730487">
-        <mark key="'" line="105" column="19" />
-        <mark key="[" line="120" column="12" />
-      </file>
-      <file name="$USER_HOME$/Downloads/src-4/miniscala/Interpreter.scala" timestamp="1520599747182">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="172" column="2" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/other/Week2.scala" timestamp="1520329069490">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" timestamp="1523021299866">
-        <mark key="'" line="91" column="53" />
-        <mark key="[" line="272" column="62" />
-        <mark key="]" line="272" column="59" />
-        <mark key="." line="272" column="59" />
-        <mark key="^" line="272" column="59" />
-      </file>
-      <file name="$USER_HOME$/git/NordicTraveller/README.md" timestamp="1509963457484">
-        <mark key="[" line="3" column="0" />
+      <file name="/Dummy.txt" timestamp="1535633597699">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/miniscala/tests/AstTestOOP.scala" timestamp="1518541828158">
-        <mark key="a" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git/SWEA/hotciv-tdd-start/.gitignore" timestamp="1535633550780">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/NordicTraveller/src/City.java" timestamp="1509970101832">
-        <mark key="[" line="19" column="27" />
+      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Point.java" timestamp="1535923565007">
+        <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/git/miniscala/src/miniscala/Unparser.scala" timestamp="1519728591428">
-        <mark key="[" line="50" column="7" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="50" column="7" />
-        <mark key="^" line="93" column="21" />
+      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Parser.java" timestamp="1535923752934">
+        <mark key="[" line="4" column="175" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1519727910518">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Exercise1.java" timestamp="1535923473050">
+        <mark key="[" line="2" column="24" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="0" column="11" filename="/Dummy.txt" />
-      <jump line="125" column="8" filename="$USER_HOME$/git/miniscala/src/miniscala/TypeChecker.scala" />
-      <jump line="140" column="37" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="136" column="67" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="137" column="73" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="138" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="139" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="158" column="70" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="166" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="171" column="91" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="172" column="99" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="173" column="97" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="174" column="97" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="179" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="184" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="233" column="45" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="97" column="79" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="98" column="80" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="90" column="4" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="88" column="43" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="92" column="95" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="93" column="96" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="94" column="98" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="95" column="81" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="96" column="83" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="111" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="116" column="67" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="117" column="73" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="118" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="119" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="126" column="75" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="127" column="81" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="128" column="79" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="129" column="79" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="107" column="36" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="108" column="67" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="109" column="73" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="110" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="115" column="36" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="143" column="10" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="144" column="69" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="145" column="73" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="146" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="147" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="148" column="75" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="155" column="69" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="149" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="156" column="72" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="157" column="70" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="162" column="36" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="163" column="69" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="164" column="73" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="165" column="71" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="170" column="36" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="178" column="36" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="183" column="36" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="91" column="53" filename="$USER_HOME$/git/miniscala/src/miniscala/Interpreter.scala" />
-      <jump line="105" column="19" filename="$USER_HOME$/git/miniscala/src/miniscala/AbstractMachine.scala" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>env</text>
+      <register name="1" type="2">
+        <text encoding="base64">Q2hhbmdlIC5naXRpZ25vcmUgCg==</text>
       </register>
-      <register name="-" type="4">
-        <text>defs)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ki5pZGVhCg==</text>
       </register>
-      <register name="m" type="4">
-        <keys>
-          <key char="47" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="51" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="51" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="36" code="0" mods="0" />
-        </keys>
+      <register name="3" type="2">
+        <text encoding="base64">Z3JhZGxlCg==</text>
       </register>
-      <register name="/" type="4">
-        <text>opstack.pop()</text>
-      </register>
-      <register name="0" type="4">
-        <text>, sto1)</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">dmFsIChsZWZ0dmFsLCBzdG8xKSA9IGV2YWwobGVmdGV4cCwgZW52LCBzdG8pCiAgICAgIHZhbCAocmlnaHR2YWwsIHN0bzIpID0gZXZhbChyaWdodGV4cCwgZW52LCBzdG8xKQogICAgICBvcCBtYXRjaCB7CiAgICAgICAgY2FzZSBQbHVzQmluT3AgPT4KICAgICAgICAgIChsZWZ0dmFsLCByaWdodHZhbCkgbWF0Y2ggewogICAgICAgICAgICBjYXNlIChJbnRWYWwodjEpLCBJbnRWYWwodjIpKSA9PiAoSW50VmFsKHYxICsgdjIpLCBzdG8yKQogICAgICAgICAgICBjYXNlIChGbG9hdFZhbCh2MSksIEZsb2F0VmFsKHYyKSkgPT4gKEZsb2F0VmFsKHYxICsgdjIpLCBzdG8yKQogICAgICAgICAgICBjYXNlIChJbnRWYWwodjEpLCBGbG9hdFZhbCh2MikpID0+IChGbG9hdFZhbCh2MSArIHYyKSwgc3RvMikKICAgICAgICAgICAgY2FzZSAoRmxvYXRWYWwodjEpLCBJbnRWYWwodjIpKSA9PiAoRmxvYXRWYWwodjEgKyB2MiksIHN0bzIpCiAgICAgICAgICAgIGNhc2UgKFN0cmluZ1ZhbCh2MSksIFN0cmluZ1ZhbCh2MikpID0+IChTdHJpbmdWYWwodjEgKyB2MiksIHN0bzIpCiAgICAgICAgICAgIGNhc2UgKFN0cmluZ1ZhbCh2MSksIEludFZhbCh2MikpID0+IChTdHJpbmdWYWwodjEgKyB2MiksIHN0bzIpCiAgICAgICAgICAgIGNhc2UgKFN0cmluZ1ZhbCh2MSksIEZsb2F0VmFsKHYyKSkgPT4gKFN0cmluZ1ZhbCh2MSArIHYyKSwgc3RvMikKICAgICAgICAgICAgY2FzZSAoSW50VmFsKHYxKSwgU3RyaW5nVmFsKHYyKSkgPT4gKFN0cmluZ1ZhbCh2MSArIHYyKSwgc3RvMikKICAgICAgICAgICAgY2FzZSAoRmxvYXRWYWwodjEpLCBTdHJpbmdWYWwodjIpKSA9PiAoU3RyaW5nVmFsKHYxICsgdjIpLCBzdG8yKQogICAgICAgICAgICBjYXNlIF8gPT4gdGhyb3cgbmV3IEludGVycHJldGVyRXJyb3IocyJUeXBlIG1pc21hdGNoIGF0ICcrJywgZm91bmQgdmFsdWVzICR7dmFsdWVUb1N0cmluZyhsZWZ0dmFsKX0gYW5kICR7dmFsdWVUb1N0cmluZyhyaWdodHZhbCl9IiwgZSkKICAgICAgICAgIH0KICAgICAgICBjYXNlIE1pbnVzQmluT3AgPT4gdHJhY2UocyJTdWJ0cmFjdGlvbiBvZiAke3ZhbHVlVG9TdHJpbmcocmlnaHR2YWwpfSBmcm9tICR7dmFsdWVUb1N0cmluZyhsZWZ0dmFsKX0iKQogICAgICAgICAgKGxlZnR2YWwsIHJpZ2h0dmFsKSBtYXRjaCB7CiAgICAgICAgICAgIGNhc2UgKEludFZhbCh2MSksIEludFZhbCh2MikpID0+IChJbnRWYWwodjEgLSB2MiksIHN0bzIpCiAgICAgICAgICAgIGNhc2UgKEZsb2F0VmFsKHYxKSwgRmxvYXRWYWwodjIpKSA9PiAoRmxvYXRWYWwodjEgLSB2MiksIHN0bzIpCiAgICAgICAgICAgIGNhc2UgKEludFZhbCh2MSksIEZsb2F0VmFsKHYyKSkgPT4gKEZsb2F0VmFsKHYxIC0gdjIpLCBzdG8yKQogICAgICAgICAgICBjYXNlIChGbG9hdFZhbCh2MSksIEludFZhbCh2MikpID0+IChGbG9hdFZhbCh2MSAtIHYyKSwgc3RvMikKICAgICAgICAgICAgY2FzZSBfID0+IHRocm93IG5ldyBJbnRlcnByZXRlckVycm9yKHMiVHlwZSBtaXNtYXRjaCBhdCAnLScsIGZvdW5kIHZhbHVlcyAke3ZhbHVlVG9TdHJpbmcobGVmdHZhbCl9IGFuZCAke3ZhbHVlVG9TdHJpbmcocmlnaHR2YWwpfSIsIGUpCiAgICAgICAgICB9CiAgICAgICAgY2FzZSBNdWx0QmluT3AgPT4gdHJhY2UocyJNdWx0aXBsaWNhdGlvbiBvZiAke3ZhbHVlVG9TdHJpbmcobGVmdHZhbCl9IGFuZCAke3ZhbHVlVG9TdHJpbmcocmlnaHR2YWwpfSIpCiAgICAgICAgICAobGVmdHZhbCwgcmlnaHR2YWwpIG1hdGNoIHsKICAgICAgICAgICAgY2FzZSAoSW50VmFsKHYxKSwgSW50VmFsKHYyKSkgPT4gSW50VmFsKHYxICogdjIpCiAgICAgICAgICAgIGNhc2UgKEZsb2F0VmFsKHYxKSwgRmxvYXRWYWwodjIpKSA9PiBGbG9hdFZhbCh2MSAqIHYyKQogICAgICAgICAgICBjYXNlIChJbnRWYWwodjEpLCBGbG9hdFZhbCh2MikpID0+IEZsb2F0VmFsKHYxICogdjIpCiAgICAgICAgICAgIGNhc2UgKEZsb2F0VmFsKHYxKSwgSW50VmFsKHYyKSkgPT4gRmxvYXRWYWwodjEgKiB2MikKICAgICAgICAgICAgY2FzZSBfID0+IHRocm93IG5ldyBJbnRlcnByZXRlckVycm9yKHMiVHlwZSBtaXNtYXRjaCBhdCAnKicsIGZvdW5kIHZhbHVlcyAke3ZhbHVlVG9TdHJpbmcobGVmdHZhbCl9IGFuZCAke3ZhbHVlVG9TdHJpbmcocmlnaHR2YWwpfSIsIGUpCiAgICAgICAgICB9CiAgICAgICAgY2FzZSBEaXZCaW5PcCA9PiB0cmFjZShzIkRpdmlzaW9uIG9mICR7dmFsdWVUb1N0cmluZyhsZWZ0dmFsKX0gYnkgJHt2YWx1ZVRvU3RyaW5nKHJpZ2h0dmFsKX0iKQogICAgICAgICAgaWYgKHJpZ2h0dmFsID09IEludFZhbCgwKSB8fCByaWdodHZhbCA9PSBGbG9hdFZhbCgwLjBmKSkKICAgICAgICAgICAgdGhyb3cgbmV3IEludGVycHJldGVyRXJyb3IocyJEaXZpc2lvbiBieSB6ZXJvIiwgZSkKICAgICAgICAgIChsZWZ0dmFsLCByaWdodHZhbCkgbWF0Y2ggewogICAgICAgICAgICBjYXNlIChJbnRWYWwodjEpLCBJbnRWYWwodjIpKSA9PiAoSW50VmFsKHYxIC8gdjIpLCBzdG8yKQogICAgICAgICAgICBjYXNlIChGbG9hdFZhbCh2MSksIEZsb2F0VmFsKHYyKSkgPT4gKEZsb2F0VmFsKHYxIC8gdjIpLCBzdG8yKQogICAgICAgICAgICBjYXNlIChJbnRWYWwodjEpLCBGbG9hdFZhbCh2MikpID0+IChGbG9hdFZhbCh2MSAvIHYyKSwgc3RvMikKICAgICAgICAgICAgY2FzZSAoRmxvYXRWYWwodjEpLCBJbnRWYWwodjIpKSA9PiAoRmxvYXRWYWwodjEgLyB2MiksIHN0bzIpCiAgICAgICAgICAgIGNhc2UgXyA9PiB0aHJvdyBuZXcgSW50ZXJwcmV0ZXJFcnJvcihzIlR5cGUgbWlzbWF0Y2ggYXQgJy8nLCBmb3VuZCB2YWx1ZXMgJHt2YWx1ZVRvU3RyaW5nKGxlZnR2YWwpfSBhbmQgJHt2YWx1ZVRvU3RyaW5nKHJpZ2h0dmFsKX0iLCBlKQogICAgICAgICAgfQogICAgICAgIGNhc2UgTW9kdWxvQmluT3AgPT4gdHJhY2UocyJNb2R1bHVzIG9mICR7dmFsdWVUb1N0cmluZyhsZWZ0dmFsKX0gdG8gdGhpcyAke3ZhbHVlVG9TdHJpbmcocmlnaHR2YWwpfSIpCiAgICAgICAgICBpZiAocmlnaHR2YWwgPT0gSW50VmFsKDApIHx8IHJpZ2h0dmFsID09IEZsb2F0VmFsKDAuMGYpKQogICAgICAgICAgICB0aHJvdyBuZXcgSW50ZXJwcmV0ZXJFcnJvcihzIkRpdmlzaW9uIGJ5IHplcm8iLCBlKQogICAgICAgICAgKGxlZnR2YWwsIHJpZ2h0dmFsKSBtYXRjaCB7CiAgICAgICAgICAgIGNhc2UgKEludFZhbCh2MSksIEludFZhbCh2MikpID0+IEludFZhbCh2MSAlIHYyKQogICAgICAgICAgICBjYXNlIChGbG9hdFZhbCh2MSksIEZsb2F0VmFsKHYyKSkgPT4gRmxvYXRWYWwodjEgJSB2MikKICAgICAgICAgICAgY2FzZSAoSW50VmFsKHYxKSwgRmxvYXRWYWwodjIpKSA9PiBGbG9hdFZhbCh2MSAlIHYyKQogICAgICAgICAgICBjYXNlIChGbG9hdFZhbCh2MSksIEludFZhbCh2MikpID0+IEZsb2F0VmFsKHYxICUgdjIpCiAgICAgICAgICAgIGNhc2UgXyA9PiB0aHJvdyBuZXcgSW50ZXJwcmV0ZXJFcnJvcihzIlR5cGUgbWlzbWF0Y2ggYXQgJyUnLCBmb3VuZCB2YWx1ZXMgJHt2YWx1ZVRvU3RyaW5nKGxlZnR2YWwpfSBhbmQgJHt2YWx1ZVRvU3RyaW5nKHJpZ2h0dmFsKX0iLCBlKQogICAgICAgICAgfQogICAgICAgIGNhc2UgRXF1YWxCaW5PcCA9PiB0cmFjZShzIkFyZSAke3ZhbHVlVG9TdHJpbmcobGVmdHZhbCl9IGVxdWFsIHRvICR7dmFsdWVUb1N0cmluZyhyaWdodHZhbCl9PyIpCiAgICAgICAgICA=</text>
-      </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">KGxlZnR2YWwsIHJpZ2h0dmFsKSBtYXRjaCB7CiAgICAgICAgICAgIGNhc2UgKEludFZhbCh2MSksIEludFZhbCh2MikpID0+IEJvb2xWYWwodjEgPT0gdjIpCiAgICAgICAgICAgIGNhc2UgKEZsb2F0VmFsKHYxKSwgRmxvYXRWYWwodjIpKSA9PiBCb29sVmFsKHYxID09IHYyKQogICAgICAgICAgICBjYXNlIChGbG9hdFZhbCh2MSksIEludFZhbCh2MikpID0+IEJvb2xWYWwodjEgPT0gdjIpCiAgICAgICAgICAgIGNhc2UgKEludFZhbCh2MSksIEZsb2F0VmFsKHYyKSkgPT4gQm9vbFZhbCh2MSA9PSB2MikKICAgICAgICAgICAgY2FzZSAoU3RyaW5nVmFsKHYxKSwgU3RyaW5nVmFsKHYyKSkgPT4gQm9vbFZhbCh2MSA9PSB2MikKICAgICAgICAgICAgY2FzZSAoQm9vbFZhbCh2MSksIEJvb2xWYWwodjIpKSA9PiBCb29sVmFsKHYxID09IHYyKQogICAgICAgICAgICBjYXNlIChUdXBsZVZhbCh2czEpLCBUdXBsZVZhbCh2czIpKSA9PiBCb29sVmFsKHZzMSA9PSB2czIpCiAgICAgICAgICAgIGNhc2UgXyA9PiB0aHJvdyBuZXcgSW50ZXJwcmV0ZXJFcnJvcihzIlR5cGUgbWlzbWF0Y2ggYXQgJz09JywgZm91bmQgdmFsdWVzICR7dmFsdWVUb1N0cmluZyhsZWZ0dmFsKX0gYW5kICR7dmFsdWVUb1N0cmluZyhyaWdodHZhbCl9IiwgZSkKICAgICAgICAgIH0KICAgICAgICBjYXNlIExlc3NUaGFuQmluT3AgPT4gdHJhY2UocyJJcyAke3ZhbHVlVG9TdHJpbmcobGVmdHZhbCl9IGxlc3MgdGhhbiAke3ZhbHVlVG9TdHJpbmcocmlnaHR2YWwpfSIpCiAgICAgICAgICAobGVmdHZhbCwgcmlnaHR2YWwpIG1hdGNoIHsKICAgICAgICAgICAgY2FzZSAoSW50VmFsKHYxKSwgSW50VmFsKHYyKSkgPT4gIEJvb2xWYWwodjEgPCB2MikKICAgICAgICAgICAgY2FzZSAoRmxvYXRWYWwodjEpLCBGbG9hdFZhbCh2MikpID0+IEJvb2xWYWwodjEgPCB2MikKICAgICAgICAgICAgY2FzZSAoSW50VmFsKHYxKSwgRmxvYXRWYWwodjIpKSA9PiBCb29sVmFsKHYxIDwgdjIpCiAgICAgICAgICAgIGNhc2UgKEZsb2F0VmFsKHYxKSwgSW50VmFsKHYyKSkgPT4gQm9vbFZhbCh2MSA8IHYyKQogICAgICAgICAgICBjYXNlIF8gPT4gdGhyb3cgbmV3IEludGVycHJldGVyRXJyb3IocyJUeXBlIG1pc21hdGNoIGF0ICc8JywgZm91bmQgdmFsdWVzICR7dmFsdWVUb1N0cmluZyhsZWZ0dmFsKX0gYW5kICR7dmFsdWVUb1N0cmluZyhyaWdodHZhbCl9IiwgZSkKICAgICAgICAgIH0KICAgICAgICBjYXNlIExlc3NUaGFuT3JFcXVhbEJpbk9wID0+IHRyYWNlKHMiSXMgJHt2YWx1ZVRvU3RyaW5nKGxlZnR2YWwpfSBsZXNzIHRoYW4gJHt2YWx1ZVRvU3RyaW5nKHJpZ2h0dmFsKX0iKQogICAgICAgICAgKGxlZnR2YWwsIHJpZ2h0dmFsKSBtYXRjaCB7CiAgICAgICAgICAgIGNhc2UgKEludFZhbCh2MSksIEludFZhbCh2MikpID0+IEJvb2xWYWwodjEgPD0gdjIpCiAgICAgICAgICAgIGNhc2UgKEZsb2F0VmFsKHYxKSwgRmxvYXRWYWwodjIpKSA9PiBCb29sVmFsKHYxIDw9IHYyKQogICAgICAgICAgICBjYXNlIChJbnRWYWwodjEpLCBGbG9hdFZhbCh2MikpID0+IEJvb2xWYWwodjEgPD0gdjIpCiAgICAgICAgICAgIGNhc2UgKEZsb2F0VmFsKHYxKSwgSW50VmFsKHYyKSkgPT4gQm9vbFZhbCh2MSA8PSB2MikKICAgICAgICAgICAgY2FzZSBfID0+IHRocm93IG5ldyBJbnRlcnByZXRlckVycm9yKHMiVHlwZSBtaXNtYXRjaCBhdCAnPD0nLCBmb3VuZCB2YWx1ZXMgJHt2YWx1ZVRvU3RyaW5nKGxlZnR2YWwpfSBhbmQgJHt2YWx1ZVRvU3RyaW5nKHJpZ2h0dmFsKX0iLCBlKQogICAgICAgICAgfQogICAgICAgIGNhc2UgTWF4QmluT3AgPT4gdHJhY2UocyJNYXhpbXVtIG9mIHRoZXNlOiAke3ZhbHVlVG9TdHJpbmcobGVmdHZhbCl9IGFuZCAke3ZhbHVlVG9TdHJpbmcocmlnaHR2YWwpfSIpCiAgICAgICAgICAobGVmdHZhbCwgcmlnaHR2YWwpIG1hdGNoIHsKICAgICAgICAgICAgY2FzZSAoSW50VmFsKHYxKSwgSW50VmFsKHYyKSkgPT4gaWYgKHYxIDwgdjIpIEludFZhbCh2MikgZWxzZSBJbnRWYWwodjEpCiAgICAgICAgICAgIGNhc2UgKEZsb2F0VmFsKHYxKSwgRmxvYXRWYWwodjIpKSA9PiBpZiAodjEgPCB2MikgRmxvYXRWYWwodjIpIGVsc2UgRmxvYXRWYWwodjEpCiAgICAgICAgICAgIGNhc2UgKEludFZhbCh2MSksIEZsb2F0VmFsKHYyKSkgPT4gaWYgKHYxIDwgdjIpIEZsb2F0VmFsKHYyKSBlbHNlIEZsb2F0VmFsKHYxKQogICAgICAgICAgICBjYXNlIChGbG9hdFZhbCh2MSksIEludFZhbCh2MikpID0+IGlmICh2MSA8IHYyKSBGbG9hdFZhbCh2MikgZWxzZSBGbG9hdFZhbCh2MSkKICAgICAgICAgICAgY2FzZSBfID0+IHRocm93IG5ldyBJbnRlcnByZXRlckVycm9yKHMiVHlwZSBtaXNtYXRjaCBhdCAnbWF4JywgZm91bmQgdmFsdWVzICR7dmFsdWVUb1N0cmluZyhsZWZ0dmFsKX0gYW5kICR7dmFsdWVUb1N0cmluZyhyaWdodHZhbCl9IiwgZSkKICAgICAgICAgIH0KICAgICAgICBjYXNlIEFuZEJpbk9wID0+IHRyYWNlKHMiQXJlICR7dmFsdWVUb1N0cmluZyhsZWZ0dmFsKX0gYW5kICR7dmFsdWVUb1N0cmluZyhyaWdodHZhbCl9IGJvdGggdHJ1ZT8iKQogICAgICAgICAg</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgdmFsIChsZWZ0dmFsLCBzdG8xKSA9IGV2YWwobGVmdGV4cCwgZW52LCBzdG8pKCkKICAgICAgdmFsIChyaWdodHZhbCwgc3RvMikgPSBldmFsKHJpZ2h0ZXhwLCAoZW52LCBzdG8xKQogICAgICBvcCBtYXRjaCB7CiAgICAgICAgY2FzZSBQbHVzQmluT3AgPT4KICAgICAgICAgIChsZWZ0dmFsLCByaWdodHZhbCkgbWF0Y2ggewogICAgICAgICAgICBjYXNlIChJbnRWYWwodjEpLCBJbnRWYWwodjIpKSA9PiAoSW50VmFsKCh2MSArIHYyKSwgc3RvMiksIHN0bzIpLCBzdG8yKSwgc3RvMik=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICBjYXNlIChJbnRWYWwodjEpLCBJbnRWYWwodjIpKSA9PiBJbnRWYWwodjEgLSB2MikKICAgICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Z3JhZGxldwoqLmlkZWEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoRmxvYXRWYWwodjEpLCBGbG9hdFZhbCh2MikpID0+IChGbG9hdFZhbCh2MSAtIHYyKSwgc3RvMiAoSW50VmFsKHYxKSwgRmxvYXRWYWwodjIpKSA9PiBGbG9hdFZhbCh2MSAtIHYyKQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>)
-            case</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKHZhbHMgKysgZGVmcykuZm9sZExlZnQoZW52KShlbnY6IEVudiwgZDogRGVjbCkgPT4gZXZhbERlY2woZCwgZW52LCBkZWZzKSkK</text>
-      </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="64" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="36" code="0" mods="0" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24K</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgdmFyIGVudjIgPSBlbnYKICAgICAgZm9yIChkIDwtIHZhbHMgKysgZGVmcykKICAgICAgICBlbnYyID0gZXZhbERlY2woZCwgZW52MiwgZGVmcykKICAgICAgZXZhbChleHAsIGVudjIp</text>
+        <text encoding="base64">Z3JhZGxlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/opstack.pop()/popInt()</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>opstack.pop()</last-search>
-      <last-offset />
-      <last-pattern>opstack.pop()</last-pattern>
-      <last-replace>popInt()</last-replace>
-      <last-substitute>opstack.pop()</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>Closure</entry>
-        <entry>???</entry>
-        <entry>v2</entry>
-        <entry>22v)v22v</entry>
-        <entry>v2)</entry>
-        <entry>/opstack.pop()/popInt()</entry>
-        <entry>opstack.pop()</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>q</entry>
-        <entry>i</entry>
-        <entry>qw</entry>
-        <entry>vs Ast.scala</entry>
-        <entry>/Closure</entry>
-        <entry>undo</entry>
-        <entry>reg</entry>
         <entry>w</entry>
-        <entry>s/opstack.pop()/popInt()</entry>
-        <entry>s%/opstack.pop()/popInt()</entry>
-        <entry>%s/opstack.pop()/popInt()</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
   </component>
 </application>
