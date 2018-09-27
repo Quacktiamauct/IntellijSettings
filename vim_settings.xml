@@ -3,7 +3,7 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1538068758810">
@@ -14,12 +14,12 @@
       <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Point.java" timestamp="1535923565007">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" timestamp="1538068743867">
-        <mark key="'" line="109" column="33" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="172" column="4" />
-        <mark key="." line="120" column="20" />
-        <mark key="^" line="120" column="20" />
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" timestamp="1538078783040">
+        <mark key="'" line="101" column="21" />
+        <mark key="[" line="106" column="23" />
+        <mark key="]" line="106" column="48" />
+        <mark key="." line="106" column="48" />
+        <mark key="^" line="106" column="48" />
         <mark key="o" line="103" column="0" />
       </file>
       <file name="$USER_HOME$/git/SWEA/hotciv-tdd-start/.gitignore" timestamp="1535633550780">
@@ -41,43 +41,44 @@
     <jumps>
       <jump line="108" column="24" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
       <jump line="109" column="33" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
+      <jump line="101" column="21" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBlbmRPZlJvdW5kKCkgewogICAgICAgIHdvcmxkLnVwZGF0ZUNpdGllcyhjaXR5IC0+ICgoQ2l0eUltcGwpIGNpdHkpLmluY3JlYXNlVHJlYXN1cnlCeSg2KSk7CiAgICAgICAgd29ybGQudXBkYXRlQ2l0aWVzKChwb3MsIGNpdHkpIC0+IHsKICAgICAgICAgICAgaWYgKHdvcmxkLmlzVmFsaWRUaWxlKHBvcykgJiYgZ2V0VW5pdEF0KHBvcykgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgd29ybGQucGxhY2VVbml0QXQocG9zLCAoKENpdHlJbXBsKSBjaXR5KS5wcm9kdWNlVW5pdCgpKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIEl0ZXJhdG9yPFBvc2l0aW9uPiBwb3NpdGlvbnMgPSBVdGlsaXR5LmdldDhuZWlnaGJvcmhvb2RJdGVyYXRvcihwb3MpOwogICAgICAgICAgICAgICAgUG9zaXRpb24gcGxhY2VBdDsKICAgICAgICAgICAgICAgIHdoaWxlIChwb3NpdGlvbnMuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgcGxhY2VBdCA9IHBvc2l0aW9ucy5uZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKHdvcmxkLmlzVmFsaWRUaWxlKHBsYWNlQXQpICYmIGdldFVuaXRBdChwbGFjZUF0KSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHdvcmxkLnBsYWNlVW5pdEF0KHBsYWNlQXQsICgoQ2l0eUltcGwpIGNpdHkpLnByb2R1Y2VVbml0KCkpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgICB3b3JsZC51cGRhdGVVbml0cyh1bml0IC0+ICgoVW5pdEltcGwpIHVuaXQpLnJlc2V0TW92ZUNvdW50KCkpOwogICAgICAgIGFnZSA9IGFnaW5nU3RyYXRlZ3kubmV4dEFnZShhZ2UpOwogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVW5pdCBvdGhlclVuaXQgPSBnZXRVbml0QXQodG8pOwogICAgICAgICAgICBib29sZWFuIGIgPSBvdGhlclVuaXQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVbml0SW1wbCB1bml0ID0gKFVuaXRJbXBsKSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVbml0SW1wbCB1bml0ID0gKFVuaXRJbXBsKSBnZXRVbml0QXQoZnJvbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHVuaXRFeGlzdCA9IHVuaXQgIT0gbnVsbDsKICAgICAgICBpZiAoIXVuaXRFeGlzdCkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbGlkTW92ZSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbGlkTW92ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBVbml0SW1wbCB1bml0ID0gKFVuaXRJbXBsKSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>conqueringUnitOwner)</text>
+        <text>isPlayersTur</text>
       </register>
     </registers>
     <search>
