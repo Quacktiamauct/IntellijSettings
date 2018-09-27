@@ -3,10 +3,10 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1538057639414">
+      <file name="/Dummy.txt" timestamp="1538068758810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -14,7 +14,7 @@
       <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Point.java" timestamp="1535923565007">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" timestamp="1538059747609">
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" timestamp="1538068743867">
         <mark key="'" line="109" column="33" />
         <mark key="[" line="153" column="0" />
         <mark key="]" line="172" column="4" />
