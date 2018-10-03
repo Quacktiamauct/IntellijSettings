@@ -8,4 +8,7 @@
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="FileChooser.GotoModule" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt v" />
+  </action>
 </keymap>
