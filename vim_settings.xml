@@ -3,22 +3,30 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1535633597699">
+      <file name="/Dummy.txt" timestamp="1538068758810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Point.java" timestamp="1535923565007">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" timestamp="1538080517552">
+        <mark key="'" line="101" column="21" />
+        <mark key="[" line="106" column="23" />
+        <mark key="]" line="106" column="48" />
+        <mark key="." line="106" column="48" />
+        <mark key="^" line="106" column="48" />
+        <mark key="o" line="103" column="0" />
       </file>
       <file name="$USER_HOME$/git/SWEA/hotciv-tdd-start/.gitignore" timestamp="1535633550780">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Point.java" timestamp="1535923565007">
-        <mark key="[" line="2" column="20" />
       </file>
       <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Parser.java" timestamp="1535923752934">
         <mark key="[" line="4" column="175" />
@@ -30,25 +38,47 @@
         <mark key="[" line="2" column="24" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="108" column="24" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
+      <jump line="109" column="33" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
+      <jump line="101" column="21" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
+    </jumps>
     <registers>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgVW5pdCBvdGhlclVuaXQgPSBnZXRVbml0QXQodG8pOwogICAgICAgICAgICBib29sZWFuIGIgPSBvdGhlclVuaXQ=</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Q2hhbmdlIC5naXRpZ25vcmUgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ki5pZGVhCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JhZGxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3JhZGxldwoqLmlkZWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3JhZGxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbGlkTW92ZSkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBVbml0SW1wbCB1bml0ID0gKFVuaXRJbXBsKSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>isPlayersTur</text>
       </register>
     </registers>
     <search>
