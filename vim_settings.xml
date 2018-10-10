@@ -3,14 +3,9 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1538653182261">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/combat_strategy/CombatStrategy.java" timestamp="1538653551769">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="6" column="79" />
@@ -45,6 +40,12 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/combat_strategies/EpsilonCombatStrategy.java" timestamp="1539171137767">
+        <mark key="[" line="22" column="108" />
+        <mark key="]" line="22" column="108" />
+        <mark key="." line="22" column="108" />
+        <mark key="^" line="12" column="29" />
+      </file>
       <file name="/fragment.java" timestamp="1538653182274">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,40 +66,42 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>cherPos</text>
+        <text>getBonus</text>
       </register>
       <register name="/" type="4">
         <text>game</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBsZWdpb25TaG91bGRLaWxsQXJjaGVyKCkgewogICAgICAgIFBvc2l0aW9uIGxlZ2lvblBvcyA9IG5ldyBQb3NpdGlvbigzLDIpOwogICAgICAgIFBvc2l0aW9uIGFyY2hlclBvcyA9IG5ldyBQb3NpdGlvbigyLDApOwogICAgICAgIGdhbWUuZW5kT2ZUdXJuKCk7CiAgICAgICAgZ2FtZS5tb3ZlVW5pdChsZWdpb25Qb3MsIG5ldyBQb3NpdGlvbigyLDEpKTsKICAgICAgICBnYW1lLmVuZE9mVHVybigpOwogICAgICAgIGdhbWUuZW5kT2ZUdXJuKCk7CiAgICAgICAgYXNzZXJ0VHJ1ZShnYW1lLm1vdmVVbml0KG5ldyBQb3NpdGlvbigyLDEpLCBhcmNoZXJQb3MpKTsKICAgICAgICBhc3NlcnRUaGF0KGdhbWUuZ2V0VW5pdEF0KGFyY2hlclBvcykuZ2V0T3duZXIoKSwgaXMoUGxheWVyLkJMVUUpKTsKICAgICAgICBhc3NlcnRUaGF0KGdhbWUuZ2V0VW5pdEF0KGFyY2hlclBvcykuZ2V0VHlwZVN0cmluZygpLCBpcyhHYW1lQ29uc3RhbnRzLkxFR0lPTikpOwogICAgfQ==</text>
+      <register name="0" type="8">
+        <text>attackingStrength
+defendingStrength</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Q2hhbmdlIGNvbWJhdCBzdHJhdGVneSB0byB1c2UgbmV3IGJvbnVzIG1ldGhvZHMK</text>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">IAog</text>
+      </register>
+      <register name="3" type="8">
+        <text>int attackingStrength
+int defendingStrength</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB3aW5uZXJTaG91bGRCZVRoZU9uZVRvV2luVGhyZWVBdHRhY2tzRmlyc3QoKSB7CiAgICAgICAgYXNzZXJ0VGhhdChnYW1lU3R1Yi5nZXRXaW5uZXIoKSwgaXMobnVsbFZhbHVlKCkpKTsKICAgICAgICBnYW1lU3R1Yi5tb3ZlVW5pdChuZXcgUG9zaXRpb24oMCwgMCksIG5ldyBQb3NpdGlvbigwLCAxKSk7CiAgICAgICAgYXNzZXJ0VGhhdChnYW1lU3R1Yi5nZXRXaW5uZXIoKSwgaXMobnVsbFZhbHVlKCkpKTsKICAgICAgICBnYW1lU3R1Yi5tb3ZlVW5pdChuZXcgUG9zaXRpb24oMCwgMCksIG5ldyBQb3NpdGlvbigwLCAxKSk7CiAgICAgICAgYXNzZXJ0VGhhdChnYW1lU3R1Yi5nZXRXaW5uZXIoKSwgaXMobnVsbFZhbHVlKCkpKTsKICAgICAgICBnYW1lU3R1Yi5tb3ZlVW5pdChuZXcgUG9zaXRpb24oMCwgMCksIG5ldyBQb3NpdGlvbigwLCAxKSk7CiAgICAgICAgYXNzZXJ0VGhhdChnYW1lU3R1Yi5nZXRXaW5uZXIoKSwgaXMoUGxheWVyLlJFRCkpOwogICAgfQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBQb3NpdGlvbiBsZWdpb25Qb3MyID0gbmV3IFBvc2l0aW9uKDIsMSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1lLmVuZE9mVHVybigpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnYW1lLmVuZE9mVHVybigpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbGlkTW92ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -135,7 +138,7 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
