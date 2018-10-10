@@ -32,15 +32,15 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCivAlt.java" timestamp="1539175187762" />
       <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/combat_strategy/AlphaCombatStrategy.java" timestamp="1538653594821">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" timestamp="1538655430395">
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" timestamp="1539175114356">
         <mark key="'" line="100" column="8" />
-        <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
         <mark key="^" line="81" column="0" />
@@ -133,12 +133,12 @@ int defendingStrength</text>
         <entry>actionlist</entry>
         <entry encoding="base64">JzwsJz5zL2dhbWUvZ2FtZVN0dWI=</entry>
         <entry>w</entry>
-        <entry>vs</entry>
         <entry>b</entry>
         <entry>ls</entry>
         <entry>buffers</entry>
         <entry>e T</entry>
         <entry>Gcommit</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
