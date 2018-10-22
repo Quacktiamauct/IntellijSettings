@@ -6,6 +6,15 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/UnitImpl.java" timestamp="1540207552613">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="87" column="5" />
+        <mark key="^" line="97" column="3" />
+        <mark key="." line="87" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540207180009">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/median/Median.java" timestamp="1540044980665">
         <mark key="[" line="5" column="35" />
       </file>
@@ -72,6 +81,9 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" timestamp="1540206937799">
+        <mark key="[" line="287" column="34" />
+      </file>
       <file name="/fragment.java" timestamp="1539172047763">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,7 +104,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ArrayDeque</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>game</text>
@@ -101,36 +113,41 @@
         <text>attackingStrength
 defendingStrength</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwudGltZQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVxdWUpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">fSk7CiAgICAgICAgdW5pdFN0YXRzLnB1dChHYW1lQ29uc3RhbnRzLlNFVFRMRVIsIG5ldyBVbml0U3RhdEJsb2NrKDAsIDMsIDEsIDMwCiAgICBwcml2YXRlIGZpbmFsIFN0cmluZyB1bml0VHlwZTsKICAgIHByaXZhdGUgZmluYWwgUGxheWVyIG93bmVyOwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgbWF4TW92ZUNvdW50OwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgZGVmZW5zaXZlU3RyZW5ndGg7CiAgICBwcml2YXRlIGZpbmFsIGludCBhdHRhY2tpbmdTdHJlbmd0aDsKICAgIHByaXZhdGUgaW50IG1vdmVDb3VudDsKICAgIHByaXZhdGUgYm9vbGVhbiBpc0ZvcnRpZmllZCA9IGZhbHNlOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlcXVlKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">fSk7CiAgICAgICAgdW5pdFN0YXRzLnB1dChHYW1lQ29uc3RhbnRzLkJPTUIsICAgIG5ldyBVbml0U3RhdEJsb2NrKDAsIDEsIDIsIDYwCiAgICBwdWJsaWMgc3RhdGljIGludCBnZXRVbml0Q29zdChTdHJpbmcgdW5pdFR5cGUpIHsKICAgICAgICByZXR1cm4gdW5pdFN0YXRzLmdldCh1bml0VHlwZSlbM107CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Q2hhbmdlIGNvbWJhdCBzdHJhdGVneSB0byB1c2UgbmV3IGJvbnVzIG1ldGhvZHMK</text>
+      <register name="4" type="4">
+        <text encoding="base64">fSk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">IAog</text>
+        <text>)[]{
+)[]{
+)[]{
+)[]{</text>
       </register>
       <register name="6" type="8">
-        <text>int attackingStrength
-int defendingStrength</text>
+        <text>int
+int
+int
+int</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB3aW5uZXJTaG91bGRCZVRoZU9uZVRvV2luVGhyZWVBdHRhY2tzRmlyc3QoKSB7CiAgICAgICAgYXNzZXJ0VGhhdChnYW1lU3R1Yi5nZXRXaW5uZXIoKSwgaXMobnVsbFZhbHVlKCkpKTsKICAgICAgICBnYW1lU3R1Yi5tb3ZlVW5pdChuZXcgUG9zaXRpb24oMCwgMCksIG5ldyBQb3NpdGlvbigwLCAxKSk7CiAgICAgICAgYXNzZXJ0VGhhdChnYW1lU3R1Yi5nZXRXaW5uZXIoKSwgaXMobnVsbFZhbHVlKCkpKTsKICAgICAgICBnYW1lU3R1Yi5tb3ZlVW5pdChuZXcgUG9zaXRpb24oMCwgMCksIG5ldyBQb3NpdGlvbigwLCAxKSk7CiAgICAgICAgYXNzZXJ0VGhhdChnYW1lU3R1Yi5nZXRXaW5uZXIoKSwgaXMobnVsbFZhbHVlKCkpKTsKICAgICAgICBnYW1lU3R1Yi5tb3ZlVW5pdChuZXcgUG9zaXRpb24oMCwgMCksIG5ldyBQb3NpdGlvbigwLCAxKSk7CiAgICAgICAgYXNzZXJ0VGhhdChnYW1lU3R1Yi5nZXRXaW5uZXIoKSwgaXMoUGxheWVyLlJFRCkpOwogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwudGltZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQb3NpdGlvbiBsZWdpb25Qb3MyID0gbmV3IFBvc2l0aW9uKDIsMSkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVxdWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1lLmVuZE9mVHVybigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlcXVlKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -152,13 +169,13 @@ int defendingStrength</text>
         <entry>call Fzf_dev()</entry>
         <entry>actionlist</entry>
         <entry encoding="base64">JzwsJz5zL2dhbWUvZ2FtZVN0dWI=</entry>
-        <entry>w</entry>
         <entry>b</entry>
         <entry>ls</entry>
         <entry>buffers</entry>
         <entry>e T</entry>
         <entry>Gcommit</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
