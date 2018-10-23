@@ -3,13 +3,31 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1538068758810">
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/UnitImpl.java" timestamp="1540207552613">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="87" column="5" />
+        <mark key="^" line="97" column="3" />
+        <mark key="." line="87" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540207180009">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/median/Median.java" timestamp="1540044980665">
+        <mark key="[" line="5" column="35" />
+      </file>
+      <file name="/a.dummy" timestamp="1539172169358">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/combat_strategy/CombatStrategy.java" timestamp="1538653551769">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="6" column="79" />
+        <mark key="^" line="6" column="79" />
+        <mark key="." line="6" column="79" />
       </file>
       <file name="$USER_HOME$/git/SWEA/hotciv-tdd-start/.gitignore" timestamp="1535633550780">
         <mark key="[" line="8" column="0" />
@@ -17,13 +35,10 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" timestamp="1538080517552">
-        <mark key="'" line="101" column="21" />
-        <mark key="[" line="106" column="23" />
-        <mark key="]" line="106" column="48" />
-        <mark key="." line="106" column="48" />
-        <mark key="^" line="106" column="48" />
-        <mark key="o" line="103" column="0" />
+      <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/queue/QueueSimulation.java" timestamp="1540043145091">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/Mikkel/OneDrive - Aarhus universitet/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/dodge/DogdeballTrueTest.java" timestamp="1540338358101" />
       <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Point.java" timestamp="1535923565007">
@@ -35,6 +50,47 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/combat_strategy/AlphaCombatStrategy.java" timestamp="1538653594821">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" timestamp="1539175114356">
+        <mark key="'" line="100" column="8" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/median/MedianTrueTest.java" timestamp="1540044952583">
+        <mark key="[" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/queue/QSTest.java" timestamp="1540043256828">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/combat_strategies/EpsilonCombatStrategy.java" timestamp="1539171137767">
+        <mark key="[" line="22" column="108" />
+        <mark key="]" line="22" column="108" />
+        <mark key="." line="22" column="108" />
+        <mark key="^" line="12" column="29" />
+      </file>
+      <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/dodge/Dodgeball.java" timestamp="1540203077109">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" timestamp="1540206937799">
+        <mark key="[" line="287" column="34" />
+      </file>
+      <file name="/fragment.java" timestamp="1539172047763">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/framework/AbstractCivFactory.java" timestamp="1538653653169">
+        <mark key="[" line="16" column="36" />
+      </file>
       <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Exercise1.java" timestamp="1535923473050">
         <mark key="[" line="2" column="24" />
       </file>
@@ -43,60 +99,97 @@
       <jump line="108" column="24" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
       <jump line="109" column="33" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
       <jump line="101" column="21" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
+      <jump line="68" column="4" filename="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" />
+      <jump line="100" column="8" filename="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pdCBvdGhlclVuaXQgPSBnZXRVbml0QXQodG8pOwogICAgICAgICAgICBib29sZWFuIGIgPSBvdGhlclVuaXQ=</text>
+      <register name="-" type="4">
+        <text>public</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="/" type="4">
+        <text>game</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="0" type="8">
+        <text>attackingStrength
+defendingStrength</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">fSk7CiAgICAgICAgdW5pdFN0YXRzLnB1dChHYW1lQ29uc3RhbnRzLlNFVFRMRVIsIG5ldyBVbml0U3RhdEJsb2NrKDAsIDMsIDEsIDMwCiAgICBwcml2YXRlIGZpbmFsIFN0cmluZyB1bml0VHlwZTsKICAgIHByaXZhdGUgZmluYWwgUGxheWVyIG93bmVyOwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgbWF4TW92ZUNvdW50OwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgZGVmZW5zaXZlU3RyZW5ndGg7CiAgICBwcml2YXRlIGZpbmFsIGludCBhdHRhY2tpbmdTdHJlbmd0aDsKICAgIHByaXZhdGUgaW50IG1vdmVDb3VudDsKICAgIHByaXZhdGUgYm9vbGVhbiBpc0ZvcnRpZmllZCA9IGZhbHNlOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbGlkTW92ZSkgewo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">fSk7CiAgICAgICAgdW5pdFN0YXRzLnB1dChHYW1lQ29uc3RhbnRzLkJPTUIsICAgIG5ldyBVbml0U3RhdEJsb2NrKDAsIDEsIDIsIDYwCiAgICBwdWJsaWMgc3RhdGljIGludCBnZXRVbml0Q29zdChTdHJpbmcgdW5pdFR5cGUpIHsKICAgICAgICByZXR1cm4gdW5pdFN0YXRzLmdldCh1bml0VHlwZSlbM107CiAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">fSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="8">
+        <text>)[]{
+)[]{
+)[]{
+)[]{</text>
+      </register>
+      <register name="6" type="8">
+        <text>int
+int
+int
+int</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwudGltZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVxdWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVbml0SW1wbCB1bml0ID0gKFVuaXRJbXBsKSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlcXVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>isPlayersTur</text>
-      </register>
     </registers>
     <search>
+      <last-search>game</last-search>
+      <last-pattern>game</last-pattern>
+      <last-replace>gameStub</last-replace>
+      <last-substitute>game</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>RED</entry>
+        <entry>game</entry>
+      </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz5zL1JFRC9CTFVF</entry>
+        <entry>Buffers</entry>
+        <entry>call Fzf_dev()</entry>
+        <entry>actionlist</entry>
+        <entry encoding="base64">JzwsJz5zL2dhbWUvZ2FtZVN0dWI=</entry>
+        <entry>b</entry>
+        <entry>ls</entry>
+        <entry>buffers</entry>
+        <entry>e T</entry>
+        <entry>Gcommit</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed SPACE</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
