@@ -3,7 +3,7 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/UnitImpl.java" timestamp="1540207552613">
@@ -12,9 +12,6 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="87" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540207180009">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/median/Median.java" timestamp="1540044980665">
         <mark key="[" line="5" column="35" />
       </file>
@@ -22,6 +19,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/world_layouts/FractalWorldLayout.java" timestamp="1540477098658">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="37" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/combat_strategy/CombatStrategy.java" timestamp="1538653551769">
         <mark key="[" line="2" column="33" />
@@ -93,6 +94,12 @@
       <file name="D:/Mikkel/OneDrive - Aarhus universitet/GADS/playground/src/week1/Exercise1.java" timestamp="1535923473050">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/utility/Utility.java" timestamp="1540476623358">
+        <mark key="[" line="124" column="19" />
+        <mark key="]" line="124" column="20" />
+        <mark key="." line="124" column="20" />
+        <mark key="^" line="124" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="108" column="24" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/GameImpl.java" />
@@ -109,42 +116,45 @@
       <register name="/" type="4">
         <text>game</text>
       </register>
-      <register name="0" type="8">
-        <text>attackingStrength
-defendingStrength</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIE1hcDxQb3NpdGlvbiwgVGlsZT4gc2V0dXBUaWxlcygpIHsKICAgICAgICBpZiAodGlsZXMgPT0gbnVsbCkgewogICAgICAgICAgICB0aWxlcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBHYW1lQ29uc3RhbnRzLldPUkxEU0laRTsgaSsrKSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IEdhbWVDb25zdGFudHMuV09STERTSVpFOyBqKyspIHsKICAgICAgICAgICAgICAgICAgICB0aWxlcy5wdXQobmV3IFBvc2l0aW9uKGksIGopLCBuZXdUaWxlQXQoaSwgaikpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiB0aWxlczsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdHlwZSA9ICJlcnJvciI7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">fSk7CiAgICAgICAgdW5pdFN0YXRzLnB1dChHYW1lQ29uc3RhbnRzLlNFVFRMRVIsIG5ldyBVbml0U3RhdEJsb2NrKDAsIDMsIDEsIDMwCiAgICBwcml2YXRlIGZpbmFsIFN0cmluZyB1bml0VHlwZTsKICAgIHByaXZhdGUgZmluYWwgUGxheWVyIG93bmVyOwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgbWF4TW92ZUNvdW50OwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgZGVmZW5zaXZlU3RyZW5ndGg7CiAgICBwcml2YXRlIGZpbmFsIGludCBhdHRhY2tpbmdTdHJlbmd0aDsKICAgIHByaXZhdGUgaW50IG1vdmVDb3VudDsKICAgIHByaXZhdGUgYm9vbGVhbiBpc0ZvcnRpZmllZCA9IGZhbHNlOwo=</text>
+      <register name="2" type="8">
+        <text>type
+type
+type
+type
+type</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">fSk7CiAgICAgICAgdW5pdFN0YXRzLnB1dChHYW1lQ29uc3RhbnRzLkJPTUIsICAgIG5ldyBVbml0U3RhdEJsb2NrKDAsIDEsIDIsIDYwCiAgICBwdWJsaWMgc3RhdGljIGludCBnZXRVbml0Q29zdChTdHJpbmcgdW5pdFR5cGUpIHsKICAgICAgICByZXR1cm4gdW5pdFN0YXRzLmdldCh1bml0VHlwZSlbM107CiAgICB9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">fSk7CiAgICAgICAgdW5pdFN0YXRzLnB1dChHYW1lQ29uc3RhbnRzLlNFVFRMRVIsIG5ldyBVbml0U3RhdEJsb2NrKDAsIDMsIDEsIDMwCiAgICBwcml2YXRlIGZpbmFsIFN0cmluZyB1bml0VHlwZTsKICAgIHByaXZhdGUgZmluYWwgUGxheWVyIG93bmVyOwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgbWF4TW92ZUNvdW50OwogICAgcHJpdmF0ZSBmaW5hbCBpbnQgZGVmZW5zaXZlU3RyZW5ndGg7CiAgICBwcml2YXRlIGZpbmFsIGludCBhdHRhY2tpbmdTdHJlbmd0aDsKICAgIHByaXZhdGUgaW50IG1vdmVDb3VudDsKICAgIHByaXZhdGUgYm9vbGVhbiBpc0ZvcnRpZmllZCA9IGZhbHNlOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">fSk7CiAgICAgICAgdW5pdFN0YXRzLnB1dChHYW1lQ29uc3RhbnRzLkJPTUIsICAgIG5ldyBVbml0U3RhdEJsb2NrKDAsIDEsIDIsIDYwCiAgICBwdWJsaWMgc3RhdGljIGludCBnZXRVbml0Q29zdChTdHJpbmcgdW5pdFR5cGUpIHsKICAgICAgICByZXR1cm4gdW5pdFN0YXRzLmdldCh1bml0VHlwZSlbM107CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">fSk7CiAgICB9Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>)[]{
 )[]{
 )[]{
 )[]{</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>int
 int
 int
 int</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwudGltZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGVxdWUpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlcXVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwudGltZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
