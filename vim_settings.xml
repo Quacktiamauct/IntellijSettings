@@ -3,7 +3,7 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/standard/UnitImpl.java" timestamp="1540207552613">
@@ -12,7 +12,7 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="87" column="5" />
       </file>
-      <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/median/Median.java" timestamp="1540825636066">
+      <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/median/Median.java" timestamp="1540828440245">
         <mark key="[" line="5" column="102" />
         <mark key="]" line="6" column="75" />
         <mark key="^" line="6" column="75" />
