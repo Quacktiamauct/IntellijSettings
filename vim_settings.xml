@@ -23,11 +23,12 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/view/CompositionTool.java" timestamp="1541609251981">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="22" />
+      <file name="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/view/CompositionTool.java" timestamp="1541686032931">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="4" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" timestamp="1539175114356">
         <mark key="'" line="100" column="8" />
@@ -68,7 +69,7 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="87" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541086347451">
+      <file name="/Dummy.txt" timestamp="1541686043491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/odrive/AU/Datalogi/Grundlæggende Algoritmer og Datastrukturer/csaudk-submitj/tasks/median/Median.java" timestamp="1540828440245">
@@ -143,19 +144,21 @@
       <jump line="68" column="4" filename="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" />
       <jump line="77" column="0" filename="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" />
       <jump line="100" column="8" filename="$USER_HOME$/Projects/SWEA/hotciv/src/test/java/hotciv/standard/TestEpsilonCiv.java" />
+      <jump line="41" column="38" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/view/CompositionTool.java" />
+      <jump line="50" column="8" filename="$USER_HOME$/Projects/SWEA/hotciv/src/main/java/hotciv/view/CompositionTool.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>e, x, y);</text>
       </register>
       <register name="/" type="4">
-        <text>game</text>
+        <text>Down</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIE1hcDxQb3NpdGlvbiwgVGlsZT4gc2V0dXBUaWxlcygpIHsKICAgICAgICBpZiAodGlsZXMgPT0gbnVsbCkgewogICAgICAgICAgICB0aWxlcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBHYW1lQ29uc3RhbnRzLldPUkxEU0laRTsgaSsrKSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IEdhbWVDb25zdGFudHMuV09STERTSVpFOyBqKyspIHsKICAgICAgICAgICAgICAgICAgICB0aWxlcy5wdXQobmV3IFBvc2l0aW9uKGksIGopLCBuZXdUaWxlQXQoaSwgaikpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiB0aWxlczsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBtb3ZlVG9vbC5tb3VzZVVwKGUsIHgsIHkpOwogICAgICAgIGZvY3VzVG9vbC5tb3VzZVVwKGUsIHgsIHkpOwogICAgICAgIGFjdGlvblRvb2wubW91c2VVcChlLCB4LCB5KTsKICAgICAgICBlbmRUdXJuVG9vbC5tb3VzZVVwKGUsIHgsIHkpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1lID0gbmV3IEdhbWVJbXBsKG5ldyBEZWx0YUNpdkZhY3RvcnkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2VuZFR1cm5Ub29sLm1vdXNlVXAoZSwgeCwgeSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -163,38 +166,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1lID0gbmV3IEdhbWVJbXBsKG5ldyBCZXRhQ2l2RmFjdG9yeSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL2FjdGlvblRvb2wubW91c2VVcChlLCB4LCB5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2ZvY3VzVG9vbC5tb3VzZVVwKGUsIHgsIHkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2dhbWUgPSBuZXcgR2FtZUltcGwobmV3IEFscGhhQ2l2RmFjdG9yeSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL2VuZFR1cm5Ub29sLm1vdXNlRHJhZyhlLCB4LCB5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JsZCA9IG5ldyBXb3JsZEltcGwoYnVpbGRlci53b3JsZExheW91dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2FjdGlvblRvb2wubW91c2VEcmFnKGUsIHgsIHkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRXb3JsZExheW91dChuZXcgQWxwaGFXb3JsZExheW91dCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAvL2ZvY3VzVG9vbC5tb3VzZURyYWcoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRDaXR5V29ya1N0cmF0ZWd5KG5ldyBBbHBoYUNpdkNpdHlXb3JrU3RyYXRlZ3koKSkK</text>
+        <text encoding="base64">ICAgICAgICAvL2N1cnJlbnRUb29sLm1vdXNlRG93bihlLCB4LCB5KTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRBZ2luZ1N0cmF0ZWd5KG5ldyBBbHBoYUFnaW5nU3RyYXRlZ3koKSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGtleSkgewogICAgICAgICAgIGNhc2UgS2V5RXZlbnQuVktfUzogY3VycmVudFRvb2wgPSBmb2N1c1Rvb2w7IGJyZWFrOwogICAgICAgICAgIGNhc2UgS2V5RXZlbnQuVktfTTogY3VycmVudFRvb2wgPSBtb3ZlVG9vbDsgYnJlYWs7CiAgICAgICAgICAgY2FzZSBLZXlFdmVudC5WS19BOiBjdXJyZW50VG9vbCA9IGFjdGlvblRvb2w7IGJyZWFrOwogICAgICAgICAgIGNhc2UgS2V5RXZlbnQuVktfRTogY3VycmVudFRvb2wgPSBlbmRUdXJuVG9vbDsgYnJlYWs7CiAgICAgICB9CiAgICAgICBjdXJyZW50VG9vbC5rZXlEb3duKGUsIGtleSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEdhbWVCdWlsZGVyIHNldEJvbnVzU3RyYXRlZ3koQm9udXNTdHJhdGVneSBib251c1N0cmF0ZWd5KTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVG9vbCBjdXJyZW50VG9vbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>game</last-search>
-      <last-pattern>game</last-pattern>
-      <last-replace>gameStub</last-replace>
-      <last-substitute>game</last-substitute>
+      <last-search>Down</last-search>
+      <last-pattern>Down</last-pattern>
+      <last-replace>Move</last-replace>
+      <last-substitute>Down</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -202,6 +205,7 @@
       <history-search>
         <entry>RED</entry>
         <entry>game</entry>
+        <entry>Down</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JFRC9CTFVF</entry>
@@ -219,6 +223,9 @@
         <entry encoding="base64">JzwsJz4vcy9nYW1lLyA=</entry>
         <entry encoding="base64">JzwsJz4vcy9nYW1lLi8=</entry>
         <entry encoding="base64">JzwsJz4vcy9nYW1lXC4v</entry>
+        <entry encoding="base64">JzwsJz5zL0Rvd24vRHJhZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0Rvd24vVXA=</entry>
+        <entry encoding="base64">JzwsJz5zL0Rvd24vTW92ZQ==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
