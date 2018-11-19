@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\cygwin64\bin\sh.exe" />
+    <option name="myShellPath" value="C:\cygwin64\cygwin_zsh.bat" />
   </component>
 </application>
