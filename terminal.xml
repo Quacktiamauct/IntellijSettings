@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\cygwin64\bin\zsh-5.5.1.exe" />
+    <option name="myShellPath" value="C:\Windows\System32\WindowsPowershell\v1.0\" />
   </component>
 </application>
