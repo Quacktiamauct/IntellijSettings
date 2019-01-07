@@ -18,6 +18,10 @@
           <option name="url" value="https://gitlab.au.dk/mikmak/cookbook.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.au.dk/friends_of_caesar/hotciv.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Mikkel\git" />
